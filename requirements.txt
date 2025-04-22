@@ -32,7 +32,7 @@ psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 Pygments==2.19.1
-PyMySQL @ file:///home/conda/feedstock_root/build_artifacts/pymysql_1734209850979/work
+pymysql
 python-dateutil==2.9.0.post0
 pytz==2025.2
 PyYAML==6.0.2
