@@ -28,7 +28,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'd-n-th-nghi-m-api-pkdk-1.onrender.com',
+    'localhost',  # tùy chọn nếu bạn chạy local
+    '127.0.0.1',
 ]
+
 
 
     
